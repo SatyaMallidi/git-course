@@ -1,0 +1,5 @@
+admin input like username and password
+
+admin can allow the user of their roles
+
+admin has the power to add or remove the users 
